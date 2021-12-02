@@ -9,6 +9,7 @@ app = Flask(__name__)
 api = Api(app)
 
 schedule = Schedule()
+hej = "asdfasdf"
 schedules = schedule.getSchedule()
 
 @app.route('/', methods=['GET'])
