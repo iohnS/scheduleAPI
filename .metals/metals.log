@@ -23,3 +23,13 @@
 [0m2021.12.02 16:04:31 WARN  Build server is not auto-connectable.[0m
 [0m2021.12.02 16:04:31 WARN  no build tool detected in workspace 'C:\Users\john0\web dev\scheduleAPI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 [0m2021.12.02 16:27:00 INFO  shutting down Metals[0m
+[0m2021.12.03 10:08:03 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\john0\web dev\scheduleAPI' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.03 10:08:04 INFO  time: initialize in 1.54s[0m
+[0m2021.12.03 10:08:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.03 10:08:05 WARN  no build tool detected in workspace 'C:\Users\john0\web dev\scheduleAPI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.03 10:22:02 INFO  shutting down Metals[0m
+[0m2021.12.03 12:53:54 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\john0\web dev\scheduleAPI' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.03 12:53:58 INFO  time: initialize in 4.55s[0m
+[0m2021.12.03 12:54:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.03 12:54:00 WARN  no build tool detected in workspace 'C:\Users\john0\web dev\scheduleAPI'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.03 15:19:44 INFO  shutting down Metals[0m
