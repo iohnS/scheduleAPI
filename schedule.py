@@ -1,6 +1,3 @@
-from flask import jsonify
-from flask.sessions import SecureCookieSession
-
 
 class Schedule:
 

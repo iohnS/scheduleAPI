@@ -1,6 +1,6 @@
 {
-    "files.watcherExclude": {
-        "**/target": true
-    },
-    "python.terminal.activateEnvironment": true
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "python.terminal.activateEnvironment": true
 }

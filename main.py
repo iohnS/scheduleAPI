@@ -1,12 +1,7 @@
-import sys
-from flask import Flask, json, jsonify, make_response
-#from flask.templating import render_template
-from flask_restful import Api, Resource
+from flask import Flask, jsonify
 from schedule import Schedule
 
 app = Flask(__name__)
-
-api = Api(app)
 
 schedule = Schedule()
 
