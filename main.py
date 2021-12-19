@@ -1,7 +1,9 @@
 from flask import Flask, jsonify
 from schedule import Schedule
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 schedule = Schedule()
 
