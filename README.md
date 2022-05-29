@@ -1,1 +1,1 @@
-Web scrapes the schedule from TimeEdit. Creates an API using Flask
+Web scrapes the schedule from TimeEdit using BeautifulSoup. API created using Flask.
